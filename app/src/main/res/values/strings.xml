@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiAppVerificacion</string>
+    <string name="tv1">Cual es el numero que vio?</string>
+    <string name="btn1">Validar</string>
+</resources>
